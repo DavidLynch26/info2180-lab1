@@ -11,3 +11,8 @@ h2{
 p{
     font-size: 18px;
 }
+
+html { 
+    background: url('Stock Image.jpg') no-repeat center center fixed; 
+    background-size: cover;
+  }
